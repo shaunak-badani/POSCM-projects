@@ -1,0 +1,1 @@
+python log-to-ener.py -i ubq_wb_eq.log -o energy.txt 
